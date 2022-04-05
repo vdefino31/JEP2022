@@ -42,6 +42,7 @@ Un jeu de 13 paramètres phonético-linguistiques on été automatiquement extra
 Évolution des paramètres phonético-linguistiques selon le niveau CECRL [4] des apprenants
 --
 Les Figures de ce répertoire montrent l'évolution des paramètres phonético-linguistiques selon le niveau CECRL des apprenants japonais de français.
+La Table nommée « ANOVA » présente les différents résultats obtenus lors d'une analyse en variance entre les différents paramètres et le niveau CECRL.
 
 Références
 --
